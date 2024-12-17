@@ -1,6 +1,7 @@
+@file:Suppress("UNREACHABLE_CODE")
+
 package files.app.retrofitexample.api
 
-import android.service.controls.Control
 import files.app.retrofitexample.dataClases.AuthRequest
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
